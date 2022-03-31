@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imededin
+- 👋 Hi, I’m @imededin a computer science engineering student at ENSI - the National School of Computer Science. 
 -
 - 🌱 I’m currently learning DevOps ,IOT
 -
